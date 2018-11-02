@@ -1,0 +1,2 @@
+# SynologyUtils
+Scripts for synology
